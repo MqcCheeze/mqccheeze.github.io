@@ -1,0 +1,26 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 100px 0 0 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+    background-color: #FFFFFF;
+}
+
+div {
+    padding: 0px;
+    margin: 100px 0 0 0;
+}
+
+#start-btn {
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background-color: #B23A48;
+    color: white;
+}
