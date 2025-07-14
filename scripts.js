@@ -66,7 +66,7 @@ window.onload = () => {
                 envelopeImg.src = 'images/robloxOpen.png';
 
                 setTimeout(() => {
-                    document.getElementById('code').innerHTML = 'The code is: RB7N8HWLT52WQ9582WS';
+                    document.getElementById('code').innerHTML = 'The code is: Ask uwa for it';
                 }, 1000);
             });
 
