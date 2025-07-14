@@ -12,7 +12,6 @@ window.onload = () => {
         case '/card.html':
             const images = [
                 'images/Front.png',
-                'images/Inside 1.png',
                 'images/Inside 2.png',
                 'images/Back.png'
             ];
